@@ -1,2 +1,2 @@
 # website
-The code for my website
+This repository houses all the code that my personal website uses.
