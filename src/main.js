@@ -1,5 +1,3 @@
-/* var txt = "Samuel Giles"; The text */
-
 function type(txt) {
 
   let i = 0;
