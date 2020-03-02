@@ -1,16 +1,41 @@
-function type(selectedElement, typeText) {
+/*
+
+this file contains the code for my website
+
+*/
+
+/* this function types out text */
+function type(selected, txt, speedMin, speedMax) {
 
   let i = 0; /* set i to 0 beforehand */
+  let speed = Math.floor(Math.random() * (speedMax - speedMin + 1) + speedMin); /* vary the typing time between each letter */
 
-  if (i < typeText.length) {
+  setInterval(function() {
 
-    let speed = Math.floor(Math.random() * (70 - 30 + 1) + 30); /* vary the typing time between each letter */
-    document.getElementById(selectedElement).innerHTML += typeText.charAt(i); /* add a letter of the text to the selected element */
-    i++; /* increment to next letter */
-    setTimeout(type, speed); /* wait a few miliseconds before typing again */
+    if (i < txt.length) {
 
-  };
+     document.getElementById(selected).innerHTML += txt.charAt(i); /* add a letter of the text to the selected element */
+     i++; /* increment to next letter */
+     speed = Math.floor(Math.random() * (speedMax - speedMin + 1) + speedMin); /* vary the typing time between each letter */
+
+    } else {
+
+      clearInterval();
+
+    };
+  
+  }, speed);
 
 };
 
-type("title", "Samuel Giles");
+type("title", "This is a test.", 30, 70);
+type(
+  "description", 
+  `
+  This is a test. This entire site is a test. The text above this paragraph is a test. 
+  This text itself is a test, too. All of the actual stuff I am going to put on this 
+  site is being worked on and will be released here soon. Stay tuned!                        
+  `,
+  15,
+  30
+);
