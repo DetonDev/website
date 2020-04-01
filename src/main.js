@@ -212,7 +212,7 @@ const links = [
   },
   {
     "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cydonia_-_the_face_on_Mars",
-    "desc": "Yeah human brains are funny sometimes."
+    "desc": "Mars is a pretty cool planet."
   },
   {
     "link": "https://libraryofbabel.info/",
@@ -240,7 +240,7 @@ const links = [
   },
   {
     "link": "https://www.templeos.org/",
-    "desc": "An OS created by a schizophrenic programmer. (You may want to do some external research before exploring the site.)"
+    "desc": "An OS created by a schizophrenic programmer."
   },
   {
     "link": "https://twinery.org/",
