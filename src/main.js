@@ -253,6 +253,90 @@ const links = [
   {
     "link": "https://longestjokeintheworld.com/",
     "desc": "('-')7"
+  },
+  {
+    "link": "https://www.yourworldoftext.com/",
+    "desc": "A site with an infinite textfield that anyone can edit."
+  },
+  {
+    "link": "https://candybox2.github.io/",
+    "desc": "o--|=====>"
+  },
+  {
+    "link": "https://ayolland.itch.io/trevor",
+    "desc": "An awesome Bitsy game."
+  },
+  {
+    "link": "https://nitter.net/cavern_caravan",
+    "desc": "A Twitter bot that describes the journeys of a caravan wandering through the Earth's depths."
+  },
+  {
+    "link": "https://www.alexanderperrin.com.au/paper/shorttrip/",
+    "desc": "A nice little trip. :)"
+  },
+  {
+    "link": "https://amazondating.co/",
+    "desc": "When Amazon gets into the dating business."
+  },
+  {
+    "link": "http://www.stealthboats.com/",
+    "desc": "The web's #1 site for stealth boat images."
+  },
+  {
+    "link": "https://www.ovaprima.org/",
+    "desc": "The chicken or the egg?"
+  },
+  {
+    "link": "https://www.stonebalancing.com/",
+    "desc": "Pretty pretty."
+  },
+  {
+    "link": "https://www.how-to-waste-your-time.com/",
+    "desc": "A helpful site that will teach you how to waste your time."
+  },
+  {
+    "link": "https://orteil.dashnet.org/nested",
+    "desc": "A cool web-based universe exploration simulator."
+  },
+  {
+    "link": "https://www.1112.net/lastpage.html",
+    "desc": "final.txt"
+  },
+  {
+    "link": "http://www.madsci.org/cgi-bin/lynn/jardin/SCG",
+    "desc": "A surrealist compliment generator."
+  },
+  {
+    "link": "https://kevan.org/wikitext/",
+    "desc": "Wikipedia, but as an old-school text adventure."
+  },
+  {
+    "link": "https://www.koalastothemax.com/",
+    "desc": "OCD simulator."
+  },
+  {
+    "link": "https://www.uliwestphal.de/elephas-anthropogenus/index.html",
+    "desc": "An intresting history of vintage elephant illustrations."
+  },
+  {
+    "link": "https://www.factslides.com/",
+    "desc": "A slideshow of facts."
+  },
+  {
+    "link": "https://balcomsblog.blogspot.com/2017/07/the-myth-of-chocolate-covered-broccoli.html",
+    "desc": "Don't fall for the chocolate-covered brocoli!"
+  },
+  {
+    "link": "https://beepbox.co",
+    "desc": "A helpful tool that lets you make retro video game music online!"
+  },
+  {
+    "link": "https://www.hermit-crabs.com/",
+    "desc": "Hermit crabs."
+  },
+  {
+    "link": "https://mirror.ifarchive.org/if-archive/games/competition2013/web/solarium/solarium.html#1e",
+    "desc": "A cool game made in Twine."
   }
 ];
 
