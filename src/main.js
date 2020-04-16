@@ -1,8 +1,4 @@
-/*
-
-this file contains the code for my website
-
-*/
+/* this file contains the code for my website */
 
 /* a collection of interesting links */
 const links = [
@@ -31,10 +27,6 @@ const links = [
     "desc": "A very useful project that allows you to download Wikipedia and read it offline."
   },
   {
-    "link": "https://www.kiwix.org/en/",
-    "desc": "A very useful project that allows you to download Wikipedia and read it offline."
-  },
-  {
     "link": "https://www.gutenberg.org/",
     "desc": "An online library with lots of public domain ebooks to read."
   },
@@ -49,10 +41,6 @@ const links = [
   {
     "link": "https://www.hathitrust.org/",
     "desc": "A digital library that has lots of books you can read freely. (Note: some content that you cannot read freely is here too)"
-  },
-  {
-    "link": "https://explorabl.es/",
-    "desc": "An awesome site that has a collection of educational video games, blogposts, diagrams, and all sorts of other interactive educational resources."
   },
   {
     "link": "https://explorabl.es/",
@@ -100,7 +88,7 @@ const links = [
   },
   {
     "link": "http://www.scp-wiki.net/",
-    "desc": "A fun rabbit hole to get [REDACTED] in if you haven't already."
+    "desc": "A fun [REDACTED] hole to get lost in if you haven't already."
   },
   {
     "link": "http://endless.horse/",
@@ -260,7 +248,7 @@ const links = [
   },
   {
     "link": "https://candybox2.github.io/",
-    "desc": "o--|=====>"
+    "desc": ">O<"
   },
   {
     "link": "https://ayolland.itch.io/trevor",
@@ -323,8 +311,8 @@ const links = [
     "desc": "A slideshow of facts."
   },
   {
-    "link": "https://balcomsblog.blogspot.com/2017/07/the-myth-of-chocolate-covered-broccoli.html",
-    "desc": "Don't fall for the chocolate-covered brocoli!"
+    "link": "https://blog.ncase.me/curse-of-the-chocolate-covered-broccoli-or-emotion-in-learning/",
+    "desc": "chocolate-covered brocoli"
   },
   {
     "link": "https://beepbox.co",
@@ -337,8 +325,122 @@ const links = [
   {
     "link": "https://mirror.ifarchive.org/if-archive/games/competition2013/web/solarium/solarium.html#1e",
     "desc": "A cool game made in Twine."
+  },
+  {
+    "link": "https://informationisbeautiful.net/visualizations/intermental/",
+    "desc": "A list of possible tech-induced cognitive-behavioral disorders."
+  },
+  {
+    "link": "https://simonstalenhag.se/",
+    "desc": "An artist who makes interesting art."
+  },
+  {
+    "link": "https://perchance.org/welcome",
+    "desc": "A tool for creating random generators."
+  },
+  {
+    "link": "http://yokai.com/",
+    "desc": "A repository of Japanese folklore."
+  },
+  {
+    "link": "https://www.zooniverse.org/",
+    "desc": "A website that allows you to help scientists with their research."
+  },
+  {
+    "link": "https://dangermouse.net/esoteric/chef.html",
+    "desc": "A programming language where all the programs are recipies."
+  },
+  {
+    "link": "https://invidio.us/watch?v=Rv9hn4IGofM&autoplay=0&continue=0&dark_mode=true&listen=0&local=1&loop=0&nojs=0&player_style=youtube&quality=dash&thin_mode=false",
+    "desc": "dat lizard tho"
+  },
+  {
+    "link": "https://psychology.wikia.org/wiki/Cultural_universals",
+    "desc": "A list of some things that every known culture has."
+  },
+  {
+    "link": "https://www.iterary.com/",
+    "desc": "A cool site that lets you quickly prototype card & RPG games."
+  },
+  {
+    "link": "https://distrotest.net",
+    "desc": "A helpful site that allows you to test out different distributions of Linux."
+  },
+  {
+    "link": "https://2bit.neocities.org/docs/thorn.html",
+    "desc": "Well þats quite an interesting proposal!"
+  },
+  {
+    "link": "https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-9.html#%_chap_1",
+    "desc": "An interesting old textbook about programming."
+  },
+  {
+    "link": "https://www.conservethesound.de/",
+    "desc": "An online project dedicated to preserving the sounds of obsolete technology."
+  },
+  {
+    "link": "https://outrider.org/nuclear-weapons/interactive/bomb-blast/?airburst=true&bomb=3&lat=40.72&location=New%20York%2C%20New%20York%2010002%2C%20United%20States&long=-73.99",
+    "desc": "An interactive site showing what would happen if you dropped a nuclear bomb anywhere in the world."
+  },
+  {
+    "link": "https://www.thispersondoesnotexist.com/",
+    "desc": "An AI that generates a random picture of a person everytime you reload the page."
+  },
+  {
+    "link": "http://presidentialham.com/",
+    "desc": "Paintings of every U.S president, but holding a ham."
+  },
+  {
+    "link": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
+    "desc": "A website that shows the true scale of the Solar System."
+  },
+  {
+    "link": "http://www.bash.org/",
+    "desc": "An archive of old IRC chatlogs."
+  },
+  {
+    "link": "https://cuberule.com/",
+    "desc": "The proper method for classifying food."
+  },
+  {
+    "link": "https://geon.github.io/programming/2016/03/03/dsxyliea",
+    "desc": "A website that simulates what it's like to have dyslexia."
+  },
+  {
+    "link": "https://gcemetery.co/",
+    "desc": "A list of every product that Google has discontinued."
+  },
+  {
+    "link": "https://www.howacarworks.com/",
+    "desc": "An educational site that will teach you about how cars work."
+  },
+  {
+    "link": "https://www.fieggen.com/shoelace/",
+    "desc": "The #1 site on the internet for shoelace-related content."
+  },
+  {
+    "link": "https://traffic-simulation.de/ring.html",
+    "desc": "A tiny simulation of traffic."
+  },
+  {
+    "link": "https://www.howmanypeopleareinspacerightnow.com/",
+    "desc": "A cool site that lists all the people currently in space."
+  },
+  {
+    "link": "https://www.rhymezone.com/",
+    "desc": "A helpful site that allows you to look up any word and find another word that rhymes with it."
+  },
+  {
+    "link": "https://www.random.org/",
+    "desc": "The best website for random number generation on the internet."
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Wikipedia:Unusual_articles",
+    "desc": "All of Wikipedia's weirdest content in one place."
   }
 ];
+
+let textPrinted = 0;
 
 /* this function types out text */
 function type(selected, txt, speedMin, speedMax) {
@@ -346,7 +448,7 @@ function type(selected, txt, speedMin, speedMax) {
   let i = 0; /* set i to 0 beforehand */
   let speed = Math.floor(Math.random() * (speedMax - speedMin + 1) + speedMin); /* vary the typing time between each letter */
 
-  setInterval(function() {
+  let mainLoop = setInterval(function() {
 
     if (i < txt.length) {
 
@@ -356,7 +458,9 @@ function type(selected, txt, speedMin, speedMax) {
 
     } else {
 
-      clearInterval();
+      clearInterval(mainLoop);
+      textPrinted++;
+      console.log(textPrinted)
 
     };
   
@@ -365,13 +469,15 @@ function type(selected, txt, speedMin, speedMax) {
 };
 
 type("title", "This is a test.", 30, 70);
-type(
-  "description", 
-  `
-  This is a test. This entire site is a test. The text above this paragraph is a test. 
-  This text itself is a test, too. All of the actual stuff I am going to put on this 
-  site is being worked on and will be released here soon. Stay tuned!                        
-  `,
-  15,
-  30
-);
+if (textPrinted == 1) {
+  type(
+    "description", 
+    `
+    This is a test. This entire site is a test. The text above this paragraph is a test. 
+    This text itself is a test, too. All of the actual stuff I am going to put on this 
+    site is being worked on and will be released here soon. Stay tuned!                        
+    `,
+    15,
+    30
+  );
+};
