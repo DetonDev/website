@@ -1,26 +1,164 @@
+/*
+
+    night1: #2e3440
+    night2: #3b4252
+    night3: #434c5e
+    night4: #4c566a
+
+    snow1: #d8dee9
+    snow2: #e5e9f0 
+    snow3: #eceff4
+
+    frost1: #8fbcbb
+    frost2: #88c0d0
+    frost3: #81a1c1
+    frost4: #5e81ac
+
+    aurora1: #bf616a
+    aurora2: #d08770
+    aurora3: #ebcb8b
+    aurora4: #a3be8c
+    aurora5: #b48ead
+
+*/
+
 @font-face {
     font-family: 'Montserrat';
     src: url('montserrat-bold-webfont.woff2') format('woff2'), url('montserrat-bold-webfont.woff') format('woff');
 }
   
-h1 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Montserrat', sans-serif;
+    color: #4c566a;
+}
+
+h1 {
     font-size: 64px;
 }
 
-p {
-    font-family: 'Monaco', 'Consolas', 'DejaVu Sans Mono', monospace;
+p,
+a {
+    font-family: sans-serif;
+    color: #eceff4;
 }
 
-main {
-    position: fixed;
-    left: 50%;
-    width: 700px;
+main,
+header {
+    width: 500px;
     height: 100%;
-    margin-left: -350px;
+    margin: 0 auto;
     display: flex;
     flex-flow: column;
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+header {
+    height: 230.4px;
+}
+
+section {
+    background-color: #5e81ac;
+    width: 100%;
+    padding-bottom: 150px;
+}
+
+html,
+body {
+    background-color: #eceff4;
+    margin: 0;
+}
+
+nav {
+    background-color: #eceff4;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    display: flex;
+    flex-flow: column;
+}
+
+a {
+  font-weight: bold;
+}
+
+.red {
+    color: #bf616a;
+}
+
+.orange {
+    color: #d08770;
+}
+
+.yellow {
+    color: #ebcb8b;
+}
+
+.green {
+    color: #a3be8c;
+}
+
+.purple {
+    color: #b48ead;
+}
+
+.blue {
+    color: #88c0d0;
+}
+
+.dark {
+    color: #4c566a;
+}
+
+.waves {
+    position:relative;
+    width: 100%;
+    height:15vh;
+    margin-bottom:-7px; /*Fix for safari gap*/
+    min-height:100px;
+    max-height:150px;
+}
+
+.parallax > use {
+    animation: move-forever 25s cubic-bezier(.55,.5,.45,.5)     infinite;
+  }
+  .parallax > use:nth-child(1) {
+    animation-delay: -2s;
+    animation-duration: 7s;
+  }
+  .parallax > use:nth-child(2) {
+    animation-delay: -3s;
+    animation-duration: 10s;
+  }
+  .parallax > use:nth-child(3) {
+    animation-delay: -4s;
+    animation-duration: 13s;
+  }
+  .parallax > use:nth-child(4) {
+    animation-delay: -5s;
+    animation-duration: 20s;
+  }
+  @keyframes move-forever {
+    0% {
+     transform: translate3d(-90px,0,0);
+    }
+    100% { 
+      transform: translate3d(85px,0,0);
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .waves {
+      height:40px;
+      min-height:40px;
+    }
+    .content {
+      height:30vh;
+    }
 }

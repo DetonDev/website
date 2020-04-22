@@ -1,5 +1,3 @@
-/* this file contains the code for my website */
-
 /* a collection of interesting links */
 const links = [
   {
@@ -8,11 +6,11 @@ const links = [
   },
   {
     "link": "https://digitalpsychology.io/",
-    "desc": "An educational and mildly creepy site that teaches psychological principles, complete with examples."
+    "desc": "An educational(and mildly creepy) site that teaches psychological principles, complete with examples!"
   },
   {
     "link": "https://100r.co/site/home.html",
-    "desc": "The website of two very awesome people and their projects. Leads off to many related intresting sites if you dig deep enough."
+    "desc": "The website of two very awesome people and their projects. Leads off to many related interesting sites if you dig deep enough."
   },
   {
     "link": "http://www.aaronsw.com/weblog/rawnerve",
@@ -20,7 +18,7 @@ const links = [
   },
   {
     "link": "http://www.rinkworks.com/bookaminute/",
-    "desc": "A site that offers classic books, but shortened down to a few sentences for easy reading."
+    "desc": "A site that offers classic books, but shortened down to a few sentences for easy reading!"
   },
   {
     "link": "https://www.kiwix.org/en/",
@@ -28,7 +26,7 @@ const links = [
   },
   {
     "link": "https://www.gutenberg.org/",
-    "desc": "An online library with lots of public domain ebooks to read."
+    "desc": "An online library with lots of public domain ebooks to read, with everything from The Communist Manifesto to Alice's Adventures in Wonderland."
   },
   {
     "link": "https://collapseos.org/",
@@ -56,11 +54,11 @@ const links = [
   },
   {
     "link": "https://archive.org/",
-    "desc": "Have fun exploring! (and never coming back out...)"
+    "desc": "A massive online archive that contains everything from retro PC games to old 50's B-Movies to ancient manuscripts. Have fun exploring! (and never coming back out...)"
   },
   {
     "link": "https://www.khanacademy.org/",
-    "desc": "A free, high quality learning resource."
+    "desc": "A free, high quality learning resource. (I especially like their cryptography course!)"
   },
   {
     "link": "https://science.nasa.gov/",
@@ -72,11 +70,7 @@ const links = [
   },
   {
     "link": "https://www.cavestory.org/download/cave-story.php",
-    "desc": "An influential indie game from a while ago. Also it's free."
-  },
-  {
-    "link": "https://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fzcode%2Fphotopia.z5",
-    "desc": "An old, freely-avaliable text adventure that influenced game storytelling."
+    "desc": "An influential indie game from a while ago. Also it's free!"
   },
   {
     "link": "https://doublespeakgames.github.io/adarkroom/",
@@ -84,11 +78,11 @@ const links = [
   },
   {
     "link": "https://www.theworldsworstwebsiteever.com/",
-    "desc": "A website purposely made to be as bad as possible to teach viewers about bad website design."
+    "desc": "A website purposely made to be as bad as possible to teach viewers about bad website design!"
   },
   {
     "link": "http://www.scp-wiki.net/",
-    "desc": "A fun [REDACTED] hole to get lost in if you haven't already."
+    "desc": "One of the most interesting internet [REDACTED] holes to get lost in(if you haven't already)."
   },
   {
     "link": "http://endless.horse/",
@@ -96,7 +90,7 @@ const links = [
   },
   {
     "link": "http://www.placebobutton.com/",
-    "desc": "Your new favorite button."
+    "desc": "Meet your new favorite button!"
   },
   {
     "link": "https://www.telegraphpoleappreciationsociety.org/",
@@ -120,35 +114,35 @@ const links = [
   },
   {
     "link": "https://oldcomputers.net/",
-    "desc": "An educational site about vintage computing."
+    "desc": "An educational site about vintage computing. Contains a large catalog of odd & old computers from the beginning of the PC market!"
   },
   {
     "link": "https://lostmediawiki.com/Home",
-    "desc": "A wiki about media that is missing or has been lost."
+    "desc": "An interesting wiki about media that is missing or has been lost."
   },
   {
     "link": "https://www.handspeak.com/",
-    "desc": "A website that will help you learn American Sign Language(ASL)."
+    "desc": "A useful website that will help you learn American Sign Language(ASL)."
   },
   {
     "link": "https://en.m.wikipedia.org/wiki/Mad_Gasser_of_Mattoon",
     "desc": "A wikipedia arcticle about a very peculiar occurence."
   },
   {
-    "link": "https://en.m.wikipedia.org/wiki/Dancing_plague_of_1518",
-    "desc": "A wikipedia arcticle about a very groovy plague."
+    "link": "https://publicdomainreview.org/essay/the-dancing-plague-of-1518",
+    "desc": "An educational arcticle about a very groovy plague."
   },
   {
-    "link": "https://en.m.wikipedia.org/wiki/Guerrilla_gardening",
-    "desc": "A wikipedia arcticle about the coolest form of rebellion."
+    "link": "https://www.guerrillagardening.org/",
+    "desc": "It's the best form of rebellion."
   },
   {
-    "link": "https://en.m.wikipedia.org/wiki/Jedi_census_phenomenon",
-    "desc": "A wikipedia arcticle about the power of the internet."
+    "link": "https://www.jedichurch.org/",
+    "desc": "Nothing to see here except for some Jedis."
   },
   {
-    "link": "https://en.m.wikipedia.org/wiki/Raymond_Robinson_(Green_Man)",
-    "desc": "A wikipedia arcticle about a chap who really just wanted to take a walk."
+    "link": "http://lawrencecountymemoirs.com/lcmpages/17/ray-robinson-aka-the-green-man-koppel-pa",
+    "desc": "A chap who really just wanted to take a walk."
   },
   {
     "link": "https://askabiologist.asu.edu/plosable/zombie-ants",
@@ -160,18 +154,18 @@ const links = [
   },
   {
     "link": "https://historicalgames.neocities.org/",
-    "desc": "An educational site about various games from antiquity and how to play them."
+    "desc": "An educational site about various games from yesteryear(and how to play them!)."
   },
   {
     "link": "https://castlecyberskull.neocities.org/",
-    "desc": "ENTER THE CASTLE"
+    "desc": "ENTER THE CASTLE, MORTAL."
   },
   {
     "link": "https://edlinfan.neocities.org/blog/posts/converge.htm",
-    "desc": "An interesting blogpost about techology."
+    "desc": "An interesting blogpost about technology."
   },
   {
-    "link": "https://en.m.wikipedia.org/wiki/Great_Molasses_Flood",
+    "link": "https://www.britannica.com/topic/Great-Molasses-Flood",
     "desc": "Remember the Boston Molassacre?"
   },
   {
@@ -180,11 +174,11 @@ const links = [
   },
   {
     "link": "https://electricarchaeology.ca/",
-    "desc": "An intresting blog about archaeology and techology."
+    "desc": "An interesting blog about archaeology and techology."
   },
   {
     "link": "https://waitbutwhy.com/",
-    "desc": "A cool blog with lots of stick figures."
+    "desc": "A cool blog with lots of stick figures, mammoths, aliens, and other stuff like that."
   },
   {
     "link": "https://invidio.us/feed/trending",
@@ -192,7 +186,7 @@ const links = [
   },
   {
     "link": "https://en.m.wikipedia.org/wiki/Beard_Liberation_Front",
-    "desc": "Ending discrimination, one beard at a time."
+    "desc": "Ending discrimination, one beard at a time!"
   },
   {
     "link": "https://www.amusingplanet.com/2017/06/heikegani-crab-with-human-face.html",
@@ -200,7 +194,7 @@ const links = [
   },
   {
     "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cydonia_-_the_face_on_Mars",
-    "desc": "Mars is a pretty cool planet."
+    "desc": "Ah, Mars and it's many interesting features."
   },
   {
     "link": "https://libraryofbabel.info/",
@@ -208,7 +202,7 @@ const links = [
   },
   {
     "link": "https://en.m.wikipedia.org/wiki/Georgia_Guidestones",
-    "desc": "The tale of some weird Stonehenge clone some anonymous people paid for."
+    "desc": "The tale of some weird Stonehenge clone some randos paid for."
   },
   {
     "link": "https://www.mercuryos.com/",
@@ -288,7 +282,7 @@ const links = [
   },
   {
     "link": "https://www.1112.net/lastpage.html",
-    "desc": "final.txt"
+    "desc": "You've reached the end, kiddo."
   },
   {
     "link": "http://www.madsci.org/cgi-bin/lynn/jardin/SCG",
@@ -320,7 +314,7 @@ const links = [
   },
   {
     "link": "https://www.hermit-crabs.com/",
-    "desc": "Hermit crabs."
+    "desc": "A rabbit hole of hermit crab-related knowledge."
   },
   {
     "link": "https://mirror.ifarchive.org/if-archive/games/competition2013/web/solarium/solarium.html#1e",
@@ -340,11 +334,11 @@ const links = [
   },
   {
     "link": "http://yokai.com/",
-    "desc": "A repository of Japanese folklore."
+    "desc": "An interesting rabbit hole of Japanese folklore and mythology."
   },
   {
     "link": "https://www.zooniverse.org/",
-    "desc": "A website that allows you to help scientists with their research."
+    "desc": "A website that allows you to help scientists with their research, with everything from comet trail identification to digitization of old documents!"
   },
   {
     "link": "https://dangermouse.net/esoteric/chef.html",
@@ -355,20 +349,20 @@ const links = [
     "desc": "dat lizard tho"
   },
   {
-    "link": "https://psychology.wikia.org/wiki/Cultural_universals",
-    "desc": "A list of some things that every known culture has."
+    "link": "https://condor.depaul.edu/mfiddler/hyphen/humunivers.htm",
+    "desc": "An educational website containing a list of some things that every known human culture has."
   },
   {
     "link": "https://www.iterary.com/",
-    "desc": "A cool site that lets you quickly prototype card & RPG games."
+    "desc": "A cool site that lets you quickly prototype MTG/DND-style card & RPG games."
   },
   {
     "link": "https://distrotest.net",
-    "desc": "A helpful site that allows you to test out different distributions of Linux."
+    "desc": "A helpful site that allows you to test out different distributions of Linux, online!"
   },
   {
     "link": "https://2bit.neocities.org/docs/thorn.html",
-    "desc": "Well þats quite an interesting proposal!"
+    "desc": '"Well þats quite an interesting proposal!"'
   },
   {
     "link": "https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-9.html#%_chap_1",
@@ -376,7 +370,7 @@ const links = [
   },
   {
     "link": "https://www.conservethesound.de/",
-    "desc": "An online project dedicated to preserving the sounds of obsolete technology."
+    "desc": "An online project dedicated to preserving the sounds of obsolete technology. with content ranging to the clickety-clack of old typewriters to the buzz of outdated hairdryers!"
   },
   {
     "link": "https://outrider.org/nuclear-weapons/interactive/bomb-blast/?airburst=true&bomb=3&lat=40.72&location=New%20York%2C%20New%20York%2010002%2C%20United%20States&long=-73.99",
@@ -384,7 +378,7 @@ const links = [
   },
   {
     "link": "https://www.thispersondoesnotexist.com/",
-    "desc": "An AI that generates a random picture of a person everytime you reload the page."
+    "desc": "A mildly scary site where an AI generates a random picture of a person everytime you reload the page."
   },
   {
     "link": "http://presidentialham.com/",
@@ -412,11 +406,11 @@ const links = [
   },
   {
     "link": "https://www.howacarworks.com/",
-    "desc": "An educational site that will teach you about how cars work."
+    "desc": "An educational rabbit hole that will teach you about how cars work."
   },
   {
     "link": "https://www.fieggen.com/shoelace/",
-    "desc": "The #1 site on the internet for shoelace-related content."
+    "desc": "The best site on the net for shoelace-related content."
   },
   {
     "link": "https://traffic-simulation.de/ring.html",
@@ -432,52 +426,118 @@ const links = [
   },
   {
     "link": "https://www.random.org/",
-    "desc": "The best website for random number generation on the internet."
+    "desc": "The best website for random number generation on the internet!"
   },
   {
     "link": "https://en.m.wikipedia.org/wiki/Wikipedia:Unusual_articles",
     "desc": "All of Wikipedia's weirdest content in one place."
+  },
+  {
+    "link": "http://www.worlddreambank.org/P/PLANETS.HTM",
+    "desc": "An interesting website about theoretical alternate versions of Earth."
+  },
+  {
+    "link": "http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html",
+    "desc": "An educational site that will suck you into a wormhole of physics knowledge!"
+  },
+  {
+    "link": "http://www.madsci.org/",
+    "desc": "A very educational site that lets you ask a scientist a question and see other people's questions. It also has a good rabbit hole of science links and articles."
+  },
+  {
+    "link": "https://www.wolframalpha.com/",
+    "desc": "An educational site that helps you answer questions about everything from biology to pop culture."
+  },
+  {
+    "link": "http://math.ucr.edu/home/baez/",
+    "desc": "The personal site of a physicist. Lots of good stuff here!"
+  },
+  {
+    "link": "https://www.orionsarm.com/",
+    "desc": "The encyclopedia of future galactic civilisations."
+  },
+  {
+    "link": "https://e-drexler.com/d/06/00/EOC/EOC_Table_of_Contents.html",
+    "desc": "The official free online version of the nanotechnology book that introduced the world to the concept of grey goo."
+  },
+  {
+    "link": "https://undsci.berkeley.edu/article/intro_01",
+    "desc": "A website about science. Yep, science itself. :)"
+  },
+  {
+    "link": "https://www.centauri-dreams.org/",
+    "desc": "An interesting blog about deep space exploration."
+  },
+  {
+    "link": "https://nautil.us/issue/73/play/lets-play-war-rp",
+    "desc": "An interesting article about war, peace, and using video games to solve conflicts."
+  },
+  {
+    "link": "https://curlie.org/",
+    "desc": "A curated collection of links to websites about every topic from chemistry to social science."
+  },
+  {
+    "link": "https://folk.uib.no/hnohf/",
+    "desc": "A site dedicated to the languages created by J.R.R. Tolkien."
+  },
+  {
+    "link": "https://conlang.org/",
+    "desc": "A site for those who like to create their own languages."
+  },
+  {
+    "link": "https://nodontdie.com/",
+    "desc": "A series of interviews with people who work in the video game industry."
+  },
+  {
+    "link": "https://www.pippinbarr.com/",
+    "desc": "The personal website of a game designer who apparently really likes ancient greek punishments."
+  },
+  {
+    "link": "https://www.theoi.com/",
+    "desc": "A nice Greek Mythology rabbit hole."
+  },
+  {
+    "link": "http://www.effectgames.com/demos/worlds/",
+    "desc": "A gallery of stunning animated pixel art. (Be sure to check the settings!)"
+  },
+  {
+    "link": "https://periodictable.com/",
+    "desc": "The official website of the periodic table."
+  },
+  {
+    "link": "https://emotioneric.com/",
+    "desc": "emotions"
+  },
+  {
+    "link": "https://www.vice.com/en_us/article/vbpdzm/minecraft-data-mining-reveals-players-darkest-secrets",
+    "desc": "An interesting arcticle about Minecraft."
+  },
+  {
+    "link": "https://www.folklore.org/index.py",
+    "desc": "A website where you can learn about the development of the Macintosh."
+  },
+  {
+    "link": "https://svgontheweb.com/",
+    "desc": "For all the web developers out there who need to make their SVGs smaller!"
+  },
+  {
+    "link": "https://www.chiark.greenend.org.uk/~sgtatham/smell.html",
+    "desc": "*sniffs*"
+  },
+  {
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6140172/",
+    "desc": "An arcticle about antivaxxers and doctors."
+  },
+  {
+    "link": "http://catb.org/~esr/faqs/hacker-howto.html#why_this",
+    "desc": "A text on how to become a hacker. Lots of high-quality technology knowledge to be learned here!"
+  },
+  {
+    "link": "https://media.defcon.org/",
+    "desc": "Plenty of technology knowledge in this archive, along with other stuff like lockpicking, social engineering, etc."
+  },
+  {
+    "link": "https://contrastrebellion.com/",
+    "desc": "Heed the wise words, fellow internet people."
   }
 ];
-
-let textPrinted = 0;
-
-/* this function types out text */
-function type(selected, txt, speedMin, speedMax) {
-
-  let i = 0; /* set i to 0 beforehand */
-  let speed = Math.floor(Math.random() * (speedMax - speedMin + 1) + speedMin); /* vary the typing time between each letter */
-
-  let mainLoop = setInterval(function() {
-
-    if (i < txt.length) {
-
-     document.getElementById(selected).innerHTML += txt.charAt(i); /* add a letter of the text to the selected element */
-     i++; /* increment to next letter */
-     speed = Math.floor(Math.random() * (speedMax - speedMin + 1) + speedMin); /* vary the typing time between each letter */
-
-    } else {
-
-      clearInterval(mainLoop);
-      textPrinted++;
-      console.log(textPrinted)
-
-    };
-  
-  }, speed);
-
-};
-
-type("title", "This is a test.", 30, 70);
-if (textPrinted == 1) {
-  type(
-    "description", 
-    `
-    This is a test. This entire site is a test. The text above this paragraph is a test. 
-    This text itself is a test, too. All of the actual stuff I am going to put on this 
-    site is being worked on and will be released here soon. Stay tuned!                        
-    `,
-    15,
-    30
-  );
-};
