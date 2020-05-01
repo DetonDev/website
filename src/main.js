@@ -539,5 +539,13 @@ const links = [
   {
     "link": "https://contrastrebellion.com/",
     "desc": "Heed the wise words, fellow internet people."
+  },
+  {
+    "link": "https://www.smithsonianmag.com/arts-culture/when-did-girls-start-wearing-pink-1370097/"
+    "desc": "Some interesting history behind the pink/blue gender coloring."
+  },
+  {
+    "link": "https://themonkeycage.org/2012/05/death-star-no-thank-you/",
+    "desc": "A helpful defense budget guide for any aspiring Sith lords out there."
   }
 ];
