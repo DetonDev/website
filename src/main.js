@@ -529,8 +529,8 @@ const links = [
     "desc": "An arcticle about antivaxxers and doctors."
   },
   {
-    "link": "http://catb.org/~esr/faqs/hacker-howto.html#why_this",
-    "desc": "A text on how to become a hacker. Lots of high-quality technology knowledge to be learned here!"
+    "link": "http://www.catb.org/esr/",
+    "desc": "The technical pages here have lots of knowledge for people who are interested in Linux."
   },
   {
     "link": "https://media.defcon.org/",
@@ -538,6 +538,26 @@ const links = [
   },
   {
     "link": "https://contrastrebellion.com/",
-    "desc": "Heed the wise words, fellow internet people."
+    "desc": "Heed these wise words, fellow website makers."
+  },
+  {
+    "link": "https://mcescher.com/gallery/",
+    "desc": "A gallery of the interesting art created by M.C. Esher."
+  },
+  {
+    "link": "https://www.astroart.org/",
+    "desc": "The site of a space artist who has been painting since the 50s, which is why this site contains lots of retro sci-fi art."
+  },
+  {
+    "link": "https://i-p-c-s.org/",
+    "desc": "Lots of cool stuff about the history of playing cards here, as well as games you can play with them!"
+  },
+  {
+    "link": "https://www.smithsonianmag.com/arts-culture/when-did-girls-start-wearing-pink-1370097/",
+    "desc": "Some interesting history behind the pink/blue gender coloring."
+  },
+  {
+    "link": "https://themonkeycage.org/2012/05/death-star-no-thank-you/",
+    "desc": "A helpful defense budget guide for any aspiring Sith lords out there."
   }
 ];
