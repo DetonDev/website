@@ -559,5 +559,53 @@ const links = [
   {
     "link": "https://themonkeycage.org/2012/05/death-star-no-thank-you/",
     "desc": "A helpful defense budget guide for any aspiring Sith lords out there."
+  },
+  {
+    "link": "https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months",
+    "desc": "Ever wonder how things would go down if a Lord of the Flies-like scenario happened?"
+  },
+  {
+    "link": "https://castel.dev/post/lecture-notes-1/",
+    "desc": "okay this is epic"
+  },
+  {
+    "link": "http://strangehorizons.com/non-fiction/articles/installing-linux-on-a-dead-badger-users-notes/",
+    "desc": "A pretty high-quality tutorial on how to install Linux on your dead badger."
+  },
+  {
+    "link": "https://spritesmods.com/?art=main",
+    "desc": "A site with all kinds of amazing techological projects, hacks, and experiments!"
+  },
+  {
+    "link": "https://www.smithsonianmag.com/arts-culture/true-colors-17888/",
+    "desc": "Some valuable history knowledge."
+  },
+  {
+    "link": "https://neuroclastic.com/2019/03/27/is-aba-really-dog-training-for-children-a-professional-dog-trainer-weighs-in/",
+    "desc": "A mildly disturbing article about the problems with modern-day autism therapy."
+  },
+  {
+    "link": "https://www.openmindsfoundation.org/the-bite-model-of-influence/",
+    "desc": "Note to self: Read this occasionally to make sure I'm not in a cult."
+  },
+  {
+    "link": "https://www.religioustolerance.org/homarsen.htm",
+    "desc": "TL;DR: We don't know if the bible ever actually said being gay was a sin.
+  },
+  {
+    "link": "https://8m46s.com/",
+    "desc": "justice"
+  },
+  {
+    "link": "http://feelingswheel.com/",
+    "desc": "A nice emotional literacy tool."
+  },
+  {
+    "link": "https://sereneblue.github.io/chameleon/",
+    "desc": "A cool Firefox extension that allows you to spoof your browser profile."
+  },
+  {
+    "link": "https://bechdeltest.com/",
+    "desc": "Do your favorite movies pass the test?"
   }
 ];
