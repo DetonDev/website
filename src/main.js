@@ -607,5 +607,9 @@ const links = [
   {
     "link": "https://bechdeltest.com/",
     "desc": "Do your favorite movies pass the test?"
+  },
+  {
+    "link": "https://apollo11.spacelog.org/",
+    "desc": "A full transcript of the 1969 Moon landing."
   }
 ];
