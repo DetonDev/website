@@ -611,5 +611,9 @@ const links = [
   {
     "link": "https://apollo11.spacelog.org/",
     "desc": "A full transcript of the 1969 Moon landing."
+  },
+  {
+    "link": "https://lav.io/",
+    "desc": "A site that houses some interesting art projects."
   }
 ];
