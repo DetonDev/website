@@ -615,5 +615,21 @@ const links = [
   {
     "link": "https://lav.io/",
     "desc": "A site that houses some interesting art projects."
+  },
+  {
+    "link": "https://botwiki.org/",
+    "desc": "An awesome place for those who like making online bots."
+  },
+  {
+    "link": "https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01",
+    "desc": "Interesting read about the many reasons people seem lazy."
+  },
+  {
+    "link": "https://idlewords.com/talks/website_obesity.htm",
+    "desc": "Keep your website from being an unhealthy mess with the website food pyramid."
+  },
+  {
+    "link": "https://sebpearce.com/bullshit/",
+    "desc": "Truly the only good source of self-help in the universe."
   }
 ];
