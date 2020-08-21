@@ -630,6 +630,10 @@ const links = [
   },
   {
     "link": "https://sebpearce.com/bullshit/",
-    "desc": "Truly the only good source of self-help in the universe."
+    "desc": "Literally the only good source of self-help in the universe."
+  },
+  {
+    "link": "https://www.their.tube/",
+    "desc": "A much-needed lesson about the filter bubble."
   }
 ];
