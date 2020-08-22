@@ -635,5 +635,21 @@ const links = [
   {
     "link": "https://www.their.tube/",
     "desc": "A much-needed lesson about the filter bubble."
+  },
+  {
+    "link": "https://www.c82.net/mineralogy/",
+    "desc": "Look through and read about a catalog of amazing minerals!"
+  },
+  {
+    "link": "https://dedalvs.com/index.html",
+    "desc": "Cool language stuff!"
+  },
+  {
+    "link": "https://timecube.2enp.com/",
+    "desc": "ALL HAIL THE GLORIOUS TIME CUBE"
+  },
+  {
+    "link": "https://neustadt.fr/essays/the-small-web/",
+    "desc": "A great introduction to the old web for unfamiliar readers!"
   }
 ];
