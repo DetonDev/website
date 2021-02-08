@@ -651,5 +651,33 @@ const links = [
   {
     "link": "https://neustadt.fr/essays/the-small-web/",
     "desc": "A great introduction to the old web for unfamiliar readers!"
+  },
+  {
+    "link": "https://a9.io/glue-comic",
+    "desc": "A thought-provoking comic about chat systems."
+  },
+  {
+    "link": "https://mkorostoff.github.io/1-pixel-wealth/",
+    "desc": "A stark reminder of the massive wealth inequality between bilionaires and the average people."
+  },
+  {
+    "link": "https://www.socialcooling.com/",
+    "desc": 'Is big data "cooling down" society?'
+  },
+  {
+    "link": "http://viznut.fi/texts-en/permacomputing.html",
+    "desc": "Computing through climate change? Computing through climate change."
+  },
+  {
+    "link": "https://wiki.techinc.nl/index.php/Hackers_tribes",
+    "desc": "HACK THE PLANET!"
+  },
+  {
+    "link": "https://www.cs.virginia.edu/~evans/cs655/readings/purity.html",
+    "desc": "A satire showing society's problems with sexist language."
+  },
+  {
+    "link": "http://woodwideweb.no/",
+    "desc": "A handy site about socialist trees."
   }
 ];
